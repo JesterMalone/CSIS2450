@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Dan Perkins & Jesse Maynes
+//Dan Perkins & Jesse Maynes Final Product
 
 
 namespace hangman
